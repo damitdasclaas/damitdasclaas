@@ -1,7 +1,7 @@
 # Moin, ich bin Claas.
 
 Junior Software Developer aus Flensburg. Aufgewachsen auf Amrum.
-Unterwegs vor allem in **Angular**, **TypeScript** und **Elixir** — Frontend ist mein Lieblingsbereich.
+Unterwegs vor allem in **Angular**, **TypeScript** und **Elixir**.
 
 Aktuell Werkstudent bei elunic AG. Offen für eine Vollzeitstelle.
 
