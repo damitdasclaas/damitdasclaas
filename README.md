@@ -18,4 +18,4 @@ Kontakt geht über das Formular dort, oder hier auf GitHub.
 
 - **[five_songs](https://github.com/damitdasclaas/five_songs)**: Party-Musikquiz mit eigenen Spotify-Playlists, live mit Phoenix LiveView. Auch unter [5songs.de](https://5songs.de).
 - **[exspotify](https://github.com/damitdasclaas/exspotify)**: Elixir-Client für die Spotify Web API, gebaut weil die vorhandenen Wrapper nicht gepasst haben.
-- **[gymrar](https://github.com/damitdasclaas/gymrar)**: Fitness-Tracking für Trainingseinheiten, Übungen und Fortschritt.
+- **[gymrar](https://github.com/damitdasclaas/gymrar)** (in Arbeit): Fitness-Tracking für Trainingseinheiten, Übungen und Fortschritt.
